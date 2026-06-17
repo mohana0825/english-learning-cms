@@ -1,20 +1,17 @@
-# english-learning-cms
-# English Learning Content Management System
+## Screenshots
 
-A web-based Content Management System developed using PHP and MySQL.
+### Admin Login
 
-## Features
+![Admin Login](login.png)
 
-* Admin Login
-* Dashboard
-* Category Management
-* Content Management
-* CRUD Operations
+### Dashboard
 
-## Technologies Used
+![Dashboard](dashboard.png)
 
-* PHP
-* MySQL
-* HTML
-* CSS
-* XAMPP
+### Category Management
+
+![Category Management](category.png)
+
+### Content Management
+
+![Content Management](content.png)
